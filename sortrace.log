@@ -1,0 +1,18 @@
+My machine has this many processors
+8
+Generating 1000000 random numbers
+arg[0]: generate
+arg[1]: 1000000
+arg[2]: 100000
+arg[3]: 999999
+Starting system sort
+
+real	0m0.794s
+user	0m3.185s
+sys	0m0.353s
+Starting my sort
+
+real	0m0.577s
+user	0m0.707s
+sys	0m0.040s
+All done
